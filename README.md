@@ -1,4 +1,10 @@
-A car crash mini-project on alcohol and speed can explore the relationship between these two factors and their impact on road safety. Here's a possible project outline:
+                         TEAM MEMBERS
+                         1.S.SIVAPRAKASH
+                         2.M.MOHAMED FAIZAL
+                         3.K.SANTHOSH KUMAR
+                         4.M.MOHAMED IBRAHIM THOUFEEK
+                         
+            A car crash mini-project on alcohol and speed can explore the relationship between these two factors and their impact on road safety. Here's a possible project outline:
 
 Title: "The Deadly Combination: Alcohol and Speed in Car Crashes"
 
@@ -6,7 +12,7 @@ Objective: To analyze the effects of alcohol consumption and speeding on car cra
 
 Data Collection:
 
-- Gather data on car crashes from a reliable source (e.g., National Highway Traffic Safety Administration (NHTSA) or local authorities)
+- Gather data on car crashes from a reliable source (e.g., National Highway Traffic Safety Administration  or local authorities)
 - Filter data to focus on crashes involving alcohol and/or speeding
 - Collect variables such as:
     - Blood Alcohol Concentration (BAC)
@@ -38,4 +44,7 @@ Some possible visualizations:
 - A heatmap showing the correlation between driver age and crash severity
 
 This project can help raise awareness about the dangers of alcohol and speeding, and inform strategies to improve road safety.
+
+
+
  
