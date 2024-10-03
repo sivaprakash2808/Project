@@ -1,9 +1,6 @@
-                         TEAM MEMBERS
-                         1.S.SIVAPRAKASH
-                         2.M.MOHAMED FAIZAL
-                         3.K.SANTHOSH KUMAR
-                         4.M.MOHAMED IBRAHIM THOUFEEK
-                         
+                        
+                         S.SIVAPRAKASH
+                        
    A car crash mini-project on alcohol and speed can explore the relationshi
 between these two factors and their impact on road safety. Here's a possible project outline:
 
